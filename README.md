@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://lucashuls.nl"><img src="???" alt="Logo" width="500"></a>
+  <a href="https://lucashuls.nl"><img src="https://github.com/LucasHuls/Quiz-Time/blob/main/logo.png" alt="Logo" width="500"></a>
   <br>
 </h1>
 
@@ -16,7 +16,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](???)
+![screenshot](https://github.com/LucasHuls/Quiz-Time/blob/main/Screenshot.png)
 
 ## Features
 
